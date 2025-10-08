@@ -6,7 +6,7 @@ If you just invited Cloud to your server, you will need to run a specific comman
 
 Here is a full breakdown of each command available with Cloud, including commands you will see but not have access to use:
 
-=== Basic/Public Commands
+==- Basic/Public Commands
 <b>/close-cloud-ticket</b> : Closes the ticket you are currently in. Optionally, you are able to log a transcript of tickets made in your server by copying your transcript channel ID and inputting that into the transcript channel box.
 
 !!!warning Warning
@@ -24,9 +24,9 @@ Join the support server for better assistance and up-to-date details on all new 
 <b>/open-cloud-ticket</b> : Starts the process of opening a ticket using Cloud in your server. 
 
 <b>/close-cloud-ticket</b> : Closes the ticket you are in.
-===
+==-
 
-=== Mod Commands
+==- Mod Commands
 !!! Mod Logging
 All Mod Commands have the option of being logged by hooking up a mod log channel to Cloud
 !!!
@@ -57,9 +57,9 @@ Ex. 120 = 2 hour timeout
 !!!note Note
 This can only be used by the server owner
 !!!
-===
+==-
 
-=== Bot Owner Commands
+==- Bot Owner Commands
 
 !!!danger Danger
 No one can use these commands but the bot owner. This section is just for documentation purposes.
@@ -79,4 +79,4 @@ No one can use these commands but the bot owner. This section is just for docume
 
 <b>/updatephoto</b> : Updates the bot database to upload any new pictures to the bot database.
 
-===
+==-
